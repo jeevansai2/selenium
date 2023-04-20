@@ -9,5 +9,6 @@ public class SmokeTestEx
  {
 	 System.out.println("method1");
 	 //push n pull
+	 //pull n push
  }
 }
