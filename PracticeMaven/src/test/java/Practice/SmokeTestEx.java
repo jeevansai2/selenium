@@ -8,5 +8,6 @@ public class SmokeTestEx
  public void m1()
  {
 	 System.out.println("method1");
+	 //push n pull
  }
 }
